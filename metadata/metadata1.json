@@ -1,0 +1,13 @@
+{
+    "description": "ap dus guri",
+    "image": "https://ipfs.io/ipfs/QmVqdo9JC9z71aoVFrRHzsNNPZFCkbhWVWMHDpXJ6b29gK",
+    "name": "First Tokenization try",
+    "informations": [
+        {
+            "Address": "Rua H8C",
+            "Complement": "Bloco C, apt 314",
+            "CEP": "12228-462",
+            "district": "Campus do CTA"
+        }
+    ]
+}
